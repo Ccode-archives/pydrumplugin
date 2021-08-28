@@ -1,5 +1,5 @@
 # settings
-plugin_name=$1
+plugin_name="filler"
 plugin=".drum"
 
 echo "starting build..."
